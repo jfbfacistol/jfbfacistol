@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning data engineering and cloud technologies. Particularly the tech stack (unconstruction) below ⤵
 - 🛠️ I'm currently working on my data engineering project series
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div><h3 align="left">Languages</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="50" />
@@ -46,8 +47,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jfbfacistol&theme=default"/>
-
+[![jfbfacistol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jfbfacistol&theme=tokyo-night)](https://github.com/jfbfacistol/github-readme-activity-graph)
 <p align="left"> 
   
 <img src="https://komarev.com/ghpvc/?username=jfbfacistol&label=Profile%20Views&color=75b60e&style=flat" alt="jfbfacistol"/>    [![Image of https://github.com/jfbfacistol/my-views-counter](https://github.com/jfbfacistol/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/jfbfacistol/my-views-counter)
