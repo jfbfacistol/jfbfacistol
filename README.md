@@ -1,46 +1,52 @@
-# 💫 About Me:
-<br> 👋🏻 Hello! I'm James Francis or 'Jae' for short. I am an Electronics Engineering graduate with a passion in programming.<br><br>🌱 I’m currently learning data engineering and cloud technologies.<br><br>
+<h1 align="center">Hi 👋, I'm Jae~</h1>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-francis-facistol-8a3798126/) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfbfacistol&theme=" alt="jfbfacistol" /></a> </p>
 
-# 💻 Tech Stack:
-Languages <br><br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%2300599C.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)
+- 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
+- 🌱 I’m currently learning data engineering and cloud technologies. Particularly the tech stack (unconstruction) below.
+- 🛠️ I'm currently working on my data engineering project series.
+- 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-DBMS <br><br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</div><h3 align="left">Languages</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="50" />
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="60" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="60" height="50"/>
+<h3 aligh="left">RDMS</h3>
+<p aligh="left">
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="Postgresql" width="60" height="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="Mysql" width="60" height="50""/>
+<img src= "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="60" height="50"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="60" height="50"/>
+<h3 aligh="left">Data Analysis and Visualization</h3>
+<p aligh="left">
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="60" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="60" height="50"/>
+<img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" width="60" height="50"/>
+<h3 aligh="left">Data Processing & Tools (Underconstruction)</h3>
+<p aligh="left">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="60" height="50"/>
+<img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png" width="60" height="50"/>
+<img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="Docker" width="60" height="50"/>
+<h3 aligh="left">Cloud Platforms & Data Warehouse (Underconstruction)</h3>
+<p aligh="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/1200px-Amazon-Redshift-Logo.svg.png" width="60" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" width="60" height="50"/>
+<img src="https://symbols.getvecta.com/stencil_28/27_data-factory.8004c08598.png" width="60" height="50"/>
+<img src="https://www.svgrepo.com/show/330261/databricks.svg" width="60" height="50"/>
+<h3 aligh="left">Testing, Monitoring & Automation (Underconstruction)</h3>
+<p aligh="left">
+<img src="https://avatars.githubusercontent.com/u/31670619?s=280&v=4" width="60" height="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="60" height="50"/>
+<img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="60" height="50"/>
+<img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="60" height="50"/>
+<img src="https://www.svgrepo.com/show/448219/datadog.svg" width="60" height="50"/>
+<img src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858" width="60" height="50"/>
+</p>
 
-Data Analytics <br><br>
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jfbfacistol&theme=default"/>
 
-Frameworks, platforms and Libraries <br><br>
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-
-Others <br><br>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=jfbfacistol&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-</div>
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jfbfacistol&theme=tokyonight&hide_border=false)<br/>
-
-</div>
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfbfacistol&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-----
-
-
-
-
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfbfacistol&label=Profile%20views&color=0e75b6&style=flat" alt="jfbfacistol" /> </p>
