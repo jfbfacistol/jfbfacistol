@@ -9,6 +9,7 @@
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2>Tech Stack</h2>
 </div><h3 align="left">Languages</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="50" />
