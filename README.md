@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfbfacistol&theme=" alt="jfbfacistol" /></a> </p>
 
 - 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
-- 🌱 I’m currently learning data engineering and cloud technologies. Particularly the tech stack (unconstruction) below.
-- 🛠️ I'm currently working on my data engineering project series.
+- 🌱 I’m currently learning data engineering and cloud technologies. Particularly the tech stack (unconstruction) below ⤵
+- 🛠️ I'm currently working on my data engineering project series
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 </div><h3 align="left">Languages</h3>
@@ -48,5 +48,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jfbfacistol&theme=default"/>
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfbfacistol&label=Profile%20views&color=0e75b6&style=flat" alt="jfbfacistol" /> </p>
+<p align="left"> 
+  
+<img src="https://komarev.com/ghpvc/?username=jfbfacistol&label=Profile%20Views&color=75b60e&style=flat" alt="jfbfacistol"/>    [![Image of https://github.com/jfbfacistol/my-views-counter](https://github.com/jfbfacistol/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/jfbfacistol/my-views-counter)
+
+</p>
