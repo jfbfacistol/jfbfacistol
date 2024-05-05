@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jae~</h1>
 
 - 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
-- 🌱 I’m currently learning data engineering and cloud technologies. Particularly the tech stack (unconstruction) below ⤵
+- 🌱 I’m currently learning data engineering, devops and cloud technologies. Particularly the tech stack (unconstruction) below ⤵
 - 🛠️ I'm currently working on my data engineering project series
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
   
