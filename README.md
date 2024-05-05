@@ -6,55 +6,48 @@
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 aligh ='left'>Tech Stack</h2>
+<h2 align ='left'>Tech Stack</h2>
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <h4 align="left">Languages</h4>
-        <p align="left">
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="60" height="50" />
-            <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="60" height="50"/>
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="60" height="50"/>
-        </p>
-        <h4 align="left">RDMS</h4>
-        <p align="left">
-            <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="Postgresql" width="60" height="50"/>
-            <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="Mysql" width="60" height="50"/>
-            <img src= "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="60" height="50"/>
-            <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="60" height="50"/>
-        </p>
-        <h4 align="left">Data Analysis and Visualization</h4>
-        <p align="left">
-            <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="60" height="50"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="60" height="50"/>
-            <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" width="60" height="50"/>
-        </p>
-    </div>
-     <div style="margin-right: 20px;">
-        <h4 align="left">Data Processing & Tools (Underconstruction)</h4>
-        <p align="left">
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="60" height="50"/>
-            <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d512cea8-6fde-4b68-93dd-e4649d60d02e.png" width="60" height="50"/>
-            <img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" alt="Docker" width="60" height="50"/>
-        </p>
-        <h4 align="left">Cloud Platforms & Data Warehouse (Underconstruction)</h4>
-        <p align="left">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/1200px-Amazon-Redshift-Logo.svg.png" width="60" height="50"/>
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" width="60" height="50"/>
-            <img src="https://symbols.getvecta.com/stencil_28/27_data-factory.8004c08598.png" width="60" height="50"/>
-            <img src="https://www.svgrepo.com/show/330261/databricks.svg" width="60" height="50"/>
-        </p>
-        <h4 align="left">Testing, Monitoring & Automation (Underconstruction)</h4>
-        <p align="left">
-            <img src="https://avatars.githubusercontent.com/u/31670619?s=280&v=4" width="60" height="50"/>
-            <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="60" height="50"/>
-            <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" width="60" height="50"/>
-            <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="60" height="50"/>
-            <img src="https://www.svgrepo.com/show/448219/datadog.svg" width="60" height="50"/>
-            <img src="https://companieslogo.com/img/orig/INFA-c4767c1c.png?t=1636076858" width="60" height="50"/>
-        </p>
-    </div>
+<div style="margin-right: 20px;">
+    <h4 align="left">Languages (Underconstruction)</h4>
+    <p align="left">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+        <img src="https://img.shields.io/badge/visual%20basic-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Basic Badge">
+        <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+    </p>
+    <h4 align="left">RDMS</h4>
+    <p align="left">
+        <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+        <img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server Badge">
+        <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
+    </p>
+    <h4 align="left">Data Analysis and Visualization</h4>
+    <p align="left">
+        <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
+        <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
+    </p>
+    <h4 align="left">Data Processing & Tools (Underconstruction)</h4>
+    <p align="left">
+        <img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white" alt="Apache Spark Badge">
+        <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white" alt="Apache Kafka Badge">
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+        <img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge">
+        <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
+        <img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azure%20devops&logoColor=white" alt="Azure DevOps Badge">
+        <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white" alt="GitHub Actions Badge">
+    </p>
+    <h4 align="left">Cloud Platforms & Data Warehouse (Underconstruction)</h4>
+    <p align="left">
+        <img src="https://img.shields.io/badge/amazon%20redshift-FF4500?style=for-the-badge&logo=amazon%20redshift&logoColor=white" alt="Amazon Redshift Badge">
+        <img src="https://img.shields.io/badge/snowflake-0089D6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge">
+        <img src="https://img.shields.io/badge/azure%20data%20factory-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure Data Factory Badge">
+        <img src="https://img.shields.io/badge/databricks-FFCA28?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge">
+    </p>
 </div>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 [![jfbfacistol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jfbfacistol&theme=tokyo-night)](https://github.com/jfbfacistol/github-readme-activity-graph)
