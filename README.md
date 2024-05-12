@@ -27,7 +27,7 @@
         <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"></a>
         <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge"></a>
     </p>
-    <h4 align="left">Data Processing & Tools (Underconstruction)</h4>
+    <h4 align="left">Data Processing & DevOps Tools (Underconstruction)</h4>
     <p align="left">
         <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white" alt="Apache Spark Badge"></a>
         <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white" alt="Apache Kafka Badge"></a>
