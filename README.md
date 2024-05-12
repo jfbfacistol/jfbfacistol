@@ -40,9 +40,9 @@
     <h4 align="left">Cloud Platforms & Data Warehouse (Underconstruction)</h4>
     <p align="left">
         <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/amazon%20redshift-FF4500?style=for-the-badge&logo=amazon%20redshift&logoColor=white" alt="Amazon Redshift Badge"></a>
+        <a href="https://databricks.com/"><img src="https://img.shields.io/badge/databricks-FFCA28?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"></a>
         <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/snowflake-0089D6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"></a>
         <a href="https://azure.microsoft.com/en-us/services/data-factory/"><img src="https://img.shields.io/badge/azure%20data%20factory-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure Data Factory Badge"></a>
-        <a href="https://databricks.com/"><img src="https://img.shields.io/badge/databricks-FFCA28?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"></a>
         <a href="https://cloud.google.com/bigquery/"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Badge"></a>
     </p>
 </div>
