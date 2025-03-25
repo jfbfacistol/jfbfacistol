@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jae~</h1>
 
 - 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
-- 🌱 I’m currently learning AI engineering, Machine learning, and cloud technologies. Particularly the tech stack (unconstruction) below ⤵
-- 🛠️ I'm currently working on my data engineering project series
+- 🌱 Field of Interest: Artificial Intelligence, Machine Learning, Cloud Computing, Data Science and Engineering
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/james-facistol)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,25 +26,32 @@
         <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"></a>
         <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge"></a>
     </p>
-    <h4 align="left">Data Processing & DevOps Tools (Underconstruction)</h4>
+    <h4 align="left">Data Processing & DevOps Tools</h4>
     <p align="left">
         <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white" alt="Apache Spark Badge"></a>
-        <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white" alt="Apache Kafka Badge"></a>
         <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"></a>
-        <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"></a>
         <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"></a>
-        <a href="https://azure.microsoft.com/en-us/services/devops/"><img src="https://img.shields.io/badge/azure%20devops-0078D7?style=for-the-badge&logo=azure%20devops&logoColor=white" alt="Azure DevOps Badge"></a>
-        <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white" alt="GitHub Actions Badge"></a>
     </p>
-    <h4 align="left">Cloud Platforms & Data Warehouse (Underconstruction)</h4>
+    <h4 align="left">Cloud Platforms & Data Warehouse</h4>
     <p align="left">
         <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/amazon%20redshift-FF4500?style=for-the-badge&logo=amazon%20redshift&logoColor=white" alt="Amazon Redshift Badge"></a>
         <a href="https://databricks.com/"><img src="https://img.shields.io/badge/databricks-FFCA28?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"></a>
-        <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/snowflake-0089D6?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"></a>
-        <a href="https://azure.microsoft.com/en-us/services/data-factory/"><img src="https://img.shields.io/badge/azure%20data%20factory-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Azure Data Factory Badge"></a>
-        <a href="https://cloud.google.com/bigquery/"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery Badge"></a>
+    </p>
+    <h4 align="left">AI/ML Tools & Frameworks</h4>
+    <p align="left">
+        <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"></a>
+        <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"></a>
+        <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"></a>
+        <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
+        <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"></a>
+    </p>
+    <h4 align="left">Cloud Platforms for AI/ML</h4>
+    <p align="left">
+        <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Badge"></a>
+        <a href="https://aws.amazon.com/machine-learning/"><img src="https://img.shields.io/badge/aws%20ml-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white" alt="AWS ML Badge"></a>
     </p>
 </div>
+
 
 
 
