@@ -63,7 +63,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfbfacistol&theme=" alt="jfbfacistol" /></a> </p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=jfbfacistol&label=Profile%20Views&color=75b60e&style=flat" alt="jfbfacistol"/>
-    <a href="https://github.com/jfbfacistol/my-views-counter"><img src="https://github.com/jfbfacistol/my-views-counter/blob/master/svg/profile/badge.svg" alt="jfbfacistol" /></a>
+<a href="https://u8views.com/github/jfbfacistol"><img src="https://u8views.com/api/v1/github/profiles/116970725/views/day-week-month-total-count.svg"></a>
 </div>
 </p>
