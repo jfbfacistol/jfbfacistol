@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jae~</h1>
 
 - 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
-- 🌱 Field of Interest: Artificial Intelligence, Machine Learning, Cloud Computing, Data Science and Engineering
+- 🌱 Field of Interest: Artificial Intelligence, Machine Learning, Cloud Computing, Geospatial Ai/Space Data Apps
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/james-facistol)
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
