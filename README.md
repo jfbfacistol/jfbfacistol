@@ -54,8 +54,8 @@
   <a href="https://geopandas.org/"><img src="https://img.shields.io/badge/GeoPandas-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas Badge"></a>
   <a href="https://rasterio.readthedocs.io/"><img src="https://img.shields.io/badge/Rasterio-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Rasterio Badge"></a>
   <a href="https://earthengine.google.com/"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GEE Badge"></a>
-  <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20Certifications-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
-  <a href="https://cloud.google.com/certification/"><img src="https://img.shields.io/badge/GCP%20Certifications-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
+  <!--- <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS%20Certifications-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
+  <a href="https://cloud.google.com/certification/"><img src="https://img.shields.io/badge/GCP%20Certifications-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge"></a> --->
 </p>
 </div>
 
