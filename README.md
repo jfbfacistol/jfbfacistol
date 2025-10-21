@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jae~</h1>
 
-- 🧑🏼‍🎓 I studied **BS Electronics Engineering in National University - Manila**
 - 🌱 Field of Interest: AI Applications in Fintech, Real Estate, and Space Technology, Data Infrastructure Automation and AI Systems Design, GeoAI and Remote Sensing Analytics
 - 🔎 Contact me here [LinkedIn](https://www.linkedin.com/in/james-facistol)
   
