@@ -24,7 +24,7 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"></a>
   <a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge"></a>
 </p>
-
+<!---
 <h4 align="left">🧩 Currently Learning</h4>
 <p align="left">
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"></a>
@@ -40,7 +40,7 @@
   <a href="https://aws.amazon.com/sagemaker/"><img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker Badge"></a>
   <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"></a>
 </p>
-
+ --->
 <h4 align="left">🧭 Planning to Learn (Q4 2025 – Q1 2026)</h4>
 <p align="left">
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
